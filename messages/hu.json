@@ -1,0 +1,56 @@
+{
+  "Metadata": {
+    "title": "Czimbercsik Bence | Szoftverfejlesztő",
+    "description": "Czimbercsik Bence, magyar szoftverfejlesztő, aki modern és megbízható alkalmazásokat készít."
+  },
+  "Header": {
+    "home": "Kezdőlap",
+    "projects": "Projektek",
+    "about": "Rólam"
+  },
+  "Hero": {
+    "imageAlt": "Fiatal, sötét hajú, fekete szemüveget viselő férfi portréja.",
+    "title": "Czimbercsik Bence",
+    "description": "Szoftverfejlesztőként szeretek új ötleteket megvalósítani és egyszerű, jól működő alkalmazásokat létrehozni.",
+    "exploreProjects": "Fedezd fel a projektjeimet",
+    "letsConnect": "Lépjünk kapcsolatba"
+  },
+  "Projects": {
+    "eyebrow": "Tudásom a gyakorlatban",
+    "title": "Kiemelt projektjeim",
+    "Htd": {
+      "title": "Human Tower Defense",
+      "description1": "Unity és C# segítségével készítettem egy teljes értékű 2D-s toronyvédő játékot",
+      "description2": "Megterveztem és implementáltam a játék alapvető funkcióit, például a fejleszthető tornyokat, az ellenségek útvonaltervezését és a rugalmas pályaválasztót",
+      "description3": "MySQL-alapú tartós adatkezelést implementáltam a felhasználói hitelesítéshez és a győzelmi/vereségi statisztikák követéséhez"
+    },
+    "viewSourceCode": "Forráskód megtekintése"
+  },
+  "About": {
+    "eyebrow": "A CV-n túl",
+    "title": "Ki vagyok én?",
+    "description": "Ismerd meg a hátteremet, tapasztalataimat és azokat a dolgokat, amelyek motiválják a munkámat",
+    "Experiences": {
+      "title": "Tapasztalataim",
+      "Companies": {
+        "KukaIntern": {
+          "positionTitle": "Szoftverfejlesztő gyakornok"
+        },
+        "present": "Jelenleg"
+      }
+    },
+    "Hobbies": {
+      "title": "Hobbijaim",
+      "description": "Amik segítenek kreatívnak és fokuszáltnak maradni",
+      "gaming": "Gaming",
+      "gym": "Edzés",
+      "traveling": "Utazás",
+      "cooking": "Főzés",
+      "reading": "Olvasás",
+      "photography": "Fotózás"
+    }
+  },
+  "Footer": {
+    "allRightsReserved": "Minden jog fenntartva."
+  }
+}

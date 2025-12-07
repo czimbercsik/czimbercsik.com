@@ -1,0 +1,56 @@
+{
+  "Metadata": {
+    "title": "Bence Czimbercsik | Software Developer",
+    "description": "Bence Czimbercsik, a Hungarian software developer who creates modern and reliable applications."
+  },
+  "Header": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About"
+  },
+  "Hero": {
+    "imageAlt": "Portrait of a young man with dark hair wearing black glasses.",
+    "title": "Bence Czimbercsik",
+    "description": "As a software developer, I enjoy bringing new ideas to life and creating simple, well-functioning applications",
+    "exploreProjects": "Explore My Projects",
+    "letsConnect": "Let's Connect"
+  },
+  "Projects": {
+    "eyebrow": "My Skills in Action",
+    "title": "Featured Projects",
+    "Htd": {
+      "title": "Human Tower Defense",
+      "description1": "Developed a complete 2D Tower Defense game using Unity and C#",
+      "description2": "Designed and implemented the game's core features, including upgradeable towers, enemy pathfinding, and a flexible level selector",
+      "description3": "Implemented MySQL-based persistent data handling for user authentication and tracking win/loss statistics"
+    },
+    "viewSourceCode": "View Source Code"
+  },
+  "About": {
+    "eyebrow": "Beyond the Resume",
+    "title": "Who Am I?",
+    "description": "Discover my background, experience, and the things that motivate my work.",
+    "Experiences": {
+      "title": "My Experience",
+      "Companies": {
+        "KukaIntern": {
+          "positionTitle": "Software Development Intern"
+        },
+        "present": "Present"
+      }
+    },
+    "Hobbies": {
+      "title": "My Hobbies",
+      "description": "What helps me stay creative and focused",
+      "gaming": "Gaming",
+      "gym": "Gym",
+      "traveling": "Traveling",
+      "cooking": "Cooking",
+      "reading": "Reading",
+      "photography": "Photography"
+    }
+  },
+  "Footer": {
+    "allRightsReserved": "All rights reserved."
+  }
+}
